@@ -1,6 +1,6 @@
 # aristotle-pyhton-logic
 
-. Negatio Propositionis (Propositional Negation)
+1. Negatio Propositionis (Propositional Negation)
 
 	•	Definition: The formal denial of an affirmative proposition.
 	•	Form: “S est P” becomes “S non est P”.
