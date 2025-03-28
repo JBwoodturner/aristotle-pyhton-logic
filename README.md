@@ -1,5 +1,8 @@
 # aristotle-pyhton-logic
 
+This ofverview provides the material I´m using in this series of Python experiments. 
+
+
 1. Negatio Propositionis (Propositional Negation)
 
 	•	Definition: The formal denial of an affirmative proposition.
